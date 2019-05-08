@@ -23,6 +23,7 @@ namespace sqb
         public MainWindow()
         {
             InitializeComponent();
+            // test
         }
     }
 }
